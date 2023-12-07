@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-family: sans-serif;
+}
+
+#app{
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    max-width: 50px;
+    padding: 10px ;  
+}
+
+h1{
+    display: inline-block;
+}
